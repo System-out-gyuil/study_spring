@@ -33,4 +33,4 @@ Spring Boot
 
 erd
 
-* ![project-board-erd](https://github.com/user-attachments/assets/7927bba0-b610-49eb-a1e9-15d6f982af4a)
+![project-board-erd](https://github.com/user-attachments/assets/7927bba0-b610-49eb-a1e9-15d6f982af4a)
